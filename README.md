@@ -9,4 +9,4 @@
 
 1. ディレクトリ内に「LGTM」とつけたい画像を移動する
 2. `python3 lgtm_maker.py` を実行
-3. `result_[file_name].py` がディレクトリ内にできる。
+3. `result_[file_name].[file_]` がディレクトリ内にできる。
